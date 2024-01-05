@@ -1,12 +1,12 @@
 # GDD-2023-2C-KernelSinFlow
 
-##Grupo 
+## Grupo
 KERNELSINFLOW
 
-##Curso
+## Curso
 K3572
 
-##Integrantes
+## Integrantes
 Lischinsky, Elías Nicolás - 1772144
 Pedaci, Marcos Horacio - 1760580
 Piccininno, Franco Ezequiel - 2039588 - K3622
